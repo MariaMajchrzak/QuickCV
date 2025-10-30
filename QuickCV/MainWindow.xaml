@@ -4,11 +4,18 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QuickCV"
+        xmlns:views="clr-namespace:QuickCV.View"
+        xmlns:viewModels="clr-namespace:QuickCV.ViewModel"
         mc:Ignorable="d"
         Title="QuickCV" Height="450" Width="800">
-    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
-
-        <TextBlock FontSize="40"> QUICK CV </TextBlock>
-
+    <Grid >
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type viewModels:HomeViewModel}">
+                <views:HomeView DataContext="viewModels:HomeViewModel"/>
+            </DataTemplate>
+        </Grid.Resources>
+        
+        <ContentControl Content ="{Binding CurrentViewModel}"></ContentControl>
+        
     </Grid>
 </Window>
