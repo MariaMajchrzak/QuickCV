@@ -11,11 +11,14 @@
     <Grid >
         <Grid.Resources>
             <DataTemplate DataType="{x:Type viewModels:HomeViewModel}">
-                <views:HomeView DataContext="viewModels:HomeViewModel"/>
+                <views:HomeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModels:FormViewModel}">
+                <views:FormView/>
             </DataTemplate>
         </Grid.Resources>
-        
+
         <ContentControl Content ="{Binding CurrentViewModel}"></ContentControl>
-        
+
     </Grid>
 </Window>
