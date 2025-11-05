@@ -7,6 +7,22 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel>
-        <TextBlock> form </TextBlock>
+        
+        <StackPanel>
+            <TextBlock> name :</TextBlock>
+            <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        
+        <StackPanel>
+            <TextBlock> last name :</TextBlock>
+            <TextBox Text="{Binding LastName, UpdateSourceTrigger= PropertyChanged}"/>
+        </StackPanel>
+        
+        <StackPanel>
+            <TextBlock> age :</TextBlock>
+            <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged }"/>
+        </StackPanel>
+        <Button Command="{Binding GenerateCommand}">Generate</Button>
+
     </StackPanel>
 </UserControl>

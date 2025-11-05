@@ -13,7 +13,6 @@ namespace QuickCV.ViewModel
             {
                 _currentViewModel = value; 
                 ViewModelChanged?.Invoke(this, EventArgs.Empty);
-
             }
         }
         private ViewModelBase _currentViewModel;

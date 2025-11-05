@@ -67,6 +67,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Model\Form.cs" />
+    <Compile Include="Model\InvoiceDocument.cs" />
     <Compile Include="RelayCommend.cs" />
     <Compile Include="Navigator.cs" />
     <Compile Include="ViewModel\FormViewModel.cs" />
@@ -110,9 +112,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainWindow.xaml">

@@ -18,10 +18,13 @@ namespace QuickCV
         {
             _navigator = new Navigator();
             _mainWindowViewModel = new MainWindowViewModel(_navigator);
+
+            QuestPDF.Settings.License = QuestPDF.Infrastructure.LicenseType.Community;
             
             MainWindow mainWindow = new MainWindow();
             mainWindow.DataContext = _mainWindowViewModel;
             mainWindow.Show();
+
         }
         
         private Navigator _navigator;

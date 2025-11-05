@@ -9,13 +9,13 @@ namespace QuickCV.ViewModel
         public HomeViewModel(Navigator navigator)
         {
             _navigator = navigator;
-            StartCommand = new RelayCommand(NavigateToForm);
+            StartCommand = new RelayCommand(_navigateToForm);
 
         }
         public ICommand StartCommand { get; private set; }
-        private void NavigateToForm()
+        private void _navigateToForm()
         {
-           _navigator.CurrentViewModel = new FormViewModel(); 
+           _navigator.CurrentViewModel = new FormViewModel(); // todo : refactor this(mv shouldn create another vm)
         }
         private Navigator _navigator;
     }
