@@ -120,3 +120,13 @@ C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\obj\Debug\GeneratedInternalTy
 C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\obj\Debug\View\HomeView.baml
 C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\obj\Debug\View\FormView.g.cs
 C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\obj\Debug\View\FormView.baml
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Admin\Desktop\maciuszonek\QuickCV\QuickCV\obj\Debug\QuickCV_Content.g.cs

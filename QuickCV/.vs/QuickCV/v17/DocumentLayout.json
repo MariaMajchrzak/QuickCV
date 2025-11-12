@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\view\\formview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:view\\formview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\formviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\formviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|c:\\users\\admin\\desktop\\maciuszonek\\quickcv\\quickcv\\model\\invoicedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:model\\invoicedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|c:\\users\\admin\\desktop\\maciuszonek\\quickcv\\quickcv\\view\\formview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:view\\formview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|c:\\users\\admin\\desktop\\maciuszonek\\quickcv\\quickcv\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|c:\\users\\admin\\desktop\\maciuszonek\\quickcv\\quickcv\\relaycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:relaycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|c:\\users\\admin\\desktop\\maciuszonek\\quickcv\\quickcv\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -35,24 +43,20 @@
       "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\model\\invoicedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:model\\invoicedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8739F5-D311-435A-9076-569AA4C45573}|QuickCV.csproj|solutionrelative:model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,15 +74,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T11:29:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "View\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\View\\HomeView.xaml",
+              "RelativeToolTip": "View\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T10:16:21.326Z",
               "EditorCaption": ""
             },
             {
@@ -89,27 +105,14 @@
               "RelativeDocumentMoniker": "ViewModel\\FormViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\FormViewModel.cs",
               "RelativeToolTip": "ViewModel\\FormViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T11:01:39.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\Form.cs",
-              "RelativeDocumentMoniker": "Model\\Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\Form.cs",
-              "RelativeToolTip": "Model\\Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T09:24:38.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\View\\FormView.xaml",
               "RelativeDocumentMoniker": "View\\FormView.xaml",
@@ -121,91 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InvoiceDocument.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\InvoiceDocument.cs",
-              "RelativeDocumentMoniker": "Model\\InvoiceDocument.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\InvoiceDocument.cs",
-              "RelativeToolTip": "Model\\InvoiceDocument.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RelayCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\RelayCommend.cs",
+              "RelativeDocumentMoniker": "RelayCommend.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\RelayCommend.cs",
+              "RelativeToolTip": "RelayCommend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T09:07:45.236Z",
+              "WhenOpened": "2025-11-12T15:40:38.088Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\HomeViewModel.cs",
-              "RelativeToolTip": "ViewModel\\HomeViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T10:23:02.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeView.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\View\\HomeView.xaml",
-              "RelativeDocumentMoniker": "View\\HomeView.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\View\\HomeView.xaml",
-              "RelativeToolTip": "View\\HomeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-31T10:16:21.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T10:30:02.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T09:30:06.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-24T09:30:13.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Navigator.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Navigator.cs",
-              "RelativeDocumentMoniker": "Navigator.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Navigator.cs",
-              "RelativeToolTip": "Navigator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T10:29:19.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -217,7 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Navigator.cs",
+              "RelativeDocumentMoniker": "Navigator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Navigator.cs",
+              "RelativeToolTip": "Navigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:29:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModel\\ViewModelBase.cs",
@@ -225,7 +170,85 @@
               "RelativeToolTip": "ViewModel\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:02:52.761Z"
+              "WhenOpened": "2025-10-31T11:02:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:30:02.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:23:02.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T09:30:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:30:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\InvoiceDocument.cs",
+              "RelativeDocumentMoniker": "Model\\InvoiceDocument.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\InvoiceDocument.cs",
+              "RelativeToolTip": "Model\\InvoiceDocument.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:07:45.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\Form.cs",
+              "RelativeDocumentMoniker": "Model\\Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\maciuszonek\\QuickCV\\QuickCV\\Model\\Form.cs",
+              "RelativeToolTip": "Model\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:24:38.034Z",
+              "EditorCaption": ""
             }
           ]
         }

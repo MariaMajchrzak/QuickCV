@@ -24,6 +24,7 @@ namespace QuickCV
             MainWindow mainWindow = new MainWindow();
             mainWindow.DataContext = _mainWindowViewModel;
             mainWindow.Show();
+            
 
         }
         
